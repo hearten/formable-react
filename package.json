@@ -1,10 +1,10 @@
 {
-  "name": "formable-react",
-  "version": "1.0.0",
+  "name": "@hearten/formable-react",
+  "version": "0.0.1-alpha.1",
   "description": "Dynamic and schemable react forms",
   "author": "hearten/formable-react",
   "license": "MIT",
-  "repository": "hearten/formable-react/formable-react",
+  "repository": "hearten/formable-react",
   "main": "dist/index.js",
   "module": "dist/index.es.js",
   "jsnext:main": "dist/index.es.js",
